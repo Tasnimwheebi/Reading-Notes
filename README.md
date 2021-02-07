@@ -1,5 +1,5 @@
 # Welcome to my website
-I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University specialized in English language and literuters. I have almost seven years working as teacher.
+I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University specialized in English language and literuters. I have almost seven years working as a  teacher.
  ***
  **content table**
 
