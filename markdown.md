@@ -13,6 +13,8 @@ examples :
 
 And other commands to :
 
+* use # for the header and it is the biggest size and use ## as a second title but it is smaller than the first .
+
 * create list ; 
     * there two types of list :
     
@@ -22,3 +24,4 @@ And other commands to :
 
 * add image ![ name ] ( url ) without spacing between brackets
 links ; name of website
+* two qouts to highlight the words
