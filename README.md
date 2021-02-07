@@ -20,7 +20,7 @@ people with a fixed mindset believe that abilities are inborn , it means they ar
 1. Challenges and Effort: don't say you can't do it , try more and more to develop your skills until you can do. 
 2. Obstacles : don't give up and defince all the things that push you down  
 4. Criticism : Accept all the one who critisize you as giving you some advice. 
-5. Success of others : learn success from others
+5. Success of others : learn  from others success 
 
 
 
