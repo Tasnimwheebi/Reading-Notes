@@ -34,3 +34,8 @@ There are two types of expressions:
 
   **JAVASCRIPT** contains mathmatical operators which you can use the numbers.
                               
+     ![mathmatical operator](21.jpg)                         
+     ***
+    **STRING OPERATOR** :
+
+There is just one string operator: the + symbol. It is used to join the strings on either side of it.
