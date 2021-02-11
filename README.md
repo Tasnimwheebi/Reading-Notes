@@ -9,7 +9,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | Growth mindset | [link](https://tasnimwheebi.github.io/Reading-Notes/growthminset) |
 | Markdown | [link](https://tasnimwheebi.github.io/Reading-Notes/markdown)
 | programming with Javascript | [link](https://tasnimwheebi.github.io/Reading-Notes/read-04)
-
+| Operators & Loops | [link](https://tasnimwheebi.github.io/Reading-Notes/loops)
 
 
 
