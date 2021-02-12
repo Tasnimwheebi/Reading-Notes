@@ -27,7 +27,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | Read: 09| [Forms and Events](https://tasnimwheebi.github.io/Reading-Notes/read-09)
 | Read: 10| [JS Debugging](https://tasnimwheebi.github.io/Reading-Notes/read-10)
 | Read: 11| [Assorted Topics](https://tasnimwheebi.github.io/Reading-Notes/read-11)
-| Read: 12| [Docs for the HTML <canvas> Element & Chart.js ](https://tasnimwheebi.github.io/Reading-Notes/read-12)
+| Read: 12| [Docs for the HTML < canvas > Element & Chart.js](https://tasnimwheebi.github.io/Reading-Notes/read-12)
 | Read: 13| [Local Storage](https://tasnimwheebi.github.io/Reading-Notes/read-13)
 | Read: 14a| [CSS Transforms, Transitions, and Animations ](https://tasnimwheebi.github.io/Reading-Notes/read-14a)
 | Read: 14b| [What Google Learned About Teams](https://tasnimwheebi.github.io/Reading-Notes/read-14b)
