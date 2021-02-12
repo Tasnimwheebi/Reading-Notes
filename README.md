@@ -3,11 +3,14 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
  ***
  **content table**
 
+Course Code-102
 
-| corses | link |
+| name | link |
 | :---:| :---:|
-| Course Code-102 | [Course Code-102](/mnt/c/Users/Student/desktop/code_102/Reading-notes/code-102.md) |
-| Course Code_201 | [Course Code_201]()
+| Growth mindset | [Growth mindset](https://tasnimwheebi.github.io/Reading-Notes/growthminset) |
+| Markdown | [Markdown](https://tasnimwheebi.github.io/Reading-Notes/markdown)
+| programming with Javascript | [programming with Javascript ](https://tasnimwheebi.github.io/Reading-Notes/read-04)
+| Operators & Loops | [Operators & Loops](https://tasnimwheebi.github.io/Reading-Notes/loops)
 
 
 
