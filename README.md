@@ -4,12 +4,10 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
  **content table**
 
 
-| name | link |
+| corses | link |
 | :---:| :---:|
-| Growth mindset | [link](https://tasnimwheebi.github.io/Reading-Notes/growthminset) |
-| Markdown | [link](https://tasnimwheebi.github.io/Reading-Notes/markdown)
-| programming with Javascript | [link](https://tasnimwheebi.github.io/Reading-Notes/read-04)
-| Operators & Loops | [link](https://tasnimwheebi.github.io/Reading-Notes/loops)
+| Course Code-102 | [Course Code-102](/mnt/c/Users/Student/desktop/code_102/Reading-notes/code-102.md) |
+| Course Code_201 | [Course Code_201]()
 
 
 
