@@ -16,19 +16,19 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 
 | name | link |
 | :---:| :---:|
-| Read: 01 | [Introductory HTML and JavaScript](https://tasnimwheebi.github.io/Reading-Notes/read-01) |
-| Read: 02 | [ HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://tasnimwheebi.github.io/Reading-Notes/read-02) 
-| Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow](https://tasnimwheebi.github.io/Reading-Notes/read-03) 
-| Read: 04| [HTML Links, CSS Layout, JS Functions](https://tasnimwheebi.github.io/Reading-Notes/read-04)
-| Read: 05| [ HTML Images; CSS Color & Text](https://tasnimwheebi.github.io/Reading-Notes/read-05)
-| Read: 06| [JS Object Literals; The DOM ](https://tasnimwheebi.github.io/Reading-Notes/read-06)
-| Read: 07| [HTML Tables; JS Constructor Functions](https://tasnimwheebi.github.io/Reading-Notes/read-07)
-| Read: 08| [More CSS Layout](https://tasnimwheebi.github.io/Reading-Notes/read-08)
-| Read: 09| [Forms and Events](https://tasnimwheebi.github.io/Reading-Notes/read-09)
-| Read: 10| [JS Debugging](https://tasnimwheebi.github.io/Reading-Notes/read-10)
-| Read: 11| [Assorted Topics](https://tasnimwheebi.github.io/Reading-Notes/read-11)
-| Read: 12| [Docs for the HTML canvas Element & Chart js](https://tasnimwheebi.github.io/Reading-Notes/read-12)
-| Read: 13| [Local Storage](https://tasnimwheebi.github.io/Reading-Notes/read-13)
-| Read: 14a| [CSS Transforms, Transitions, and Animations ](https://tasnimwheebi.github.io/Reading-Notes/read-14a)
-| Read: 14b| [What Google Learned About Teams](https://tasnimwheebi.github.io/Reading-Notes/read-14b)
+| class-01 | [Introductory HTML and JavaScript](https://tasnimwheebi.github.io/Reading-Notes/read-01) |
+| class-02 | [ HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://tasnimwheebi.github.io/Reading-Notes/read-02) 
+| class-03 | [HTML Lists, CSS Boxes, JS Control Flow](https://tasnimwheebi.github.io/Reading-Notes/read-03) 
+| class-04| [HTML Links, CSS Layout, JS Functions](https://tasnimwheebi.github.io/Reading-Notes/read-04)
+| class-05| [ HTML Images; CSS Color & Text](https://tasnimwheebi.github.io/Reading-Notes/read-05)
+| class-06| [JS Object Literals; The DOM ](https://tasnimwheebi.github.io/Reading-Notes/read-06)
+| class-07| [HTML Tables; JS Constructor Functions](https://tasnimwheebi.github.io/Reading-Notes/read-07)
+| class-08| [More CSS Layout](https://tasnimwheebi.github.io/Reading-Notes/read-08)
+| class-09| [Forms and Events](https://tasnimwheebi.github.io/Reading-Notes/read-09)
+| class-10| [JS Debugging](https://tasnimwheebi.github.io/Reading-Notes/read-10)
+| class-11| [Assorted Topics](https://tasnimwheebi.github.io/Reading-Notes/read-11)
+| class-12| [Docs for the HTML canvas Element & Chart js](https://tasnimwheebi.github.io/Reading-Notes/read-12)
+| class-13| [Local Storage](https://tasnimwheebi.github.io/Reading-Notes/read-13)
+| class-14a| [CSS Transforms, Transitions, and Animations ](https://tasnimwheebi.github.io/Reading-Notes/read-14a)
+| class-14b| [What Google Learned About Teams](https://tasnimwheebi.github.io/Reading-Notes/read-14b)
 
