@@ -1,4 +1,5 @@
-# TEXT 
+# HTML Text, CSS Introduction, and Basic JavaScript Instructions
+## TEXT 
 The tags in html provide us extra meaning
 and allow browsers to show users the
 appropriate structure for the page.
