@@ -108,4 +108,5 @@ of the image.`<P>` ............... `<img src="pwth.jpg" alt="name of the img"ali
 the right size.
 3. Use the correct
 resolution.
+### **Image Di mensions**
 
