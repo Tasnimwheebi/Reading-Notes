@@ -3,7 +3,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
  ***
  ## Content table
 
-### Course Code-102
+### Course Code-102 - Intro to Software Development
 
 | name | link |
 | :---:| :---:|
@@ -12,7 +12,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | programming with Javascript | [programming with Javascript ](https://tasnimwheebi.github.io/Reading-Notes/read-04)
 | Operators & Loops | [Operators & Loops](https://tasnimwheebi.github.io/Reading-Notes/loops)
 
-### Coures Code-201
+### Coures Code-201 - Foundations of Software Development
 
 | name | link |
 | :---:| :---:|
@@ -31,4 +31,27 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | class-13| [Local Storage](https://tasnimwheebi.github.io/Reading-Notes/read-13)
 | class-14a| [CSS Transforms, Transitions, and Animations ](https://tasnimwheebi.github.io/Reading-Notes/class-14a)
 | class-14b| [What Google Learned About Teams](https://tasnimwheebi.github.io/Reading-Notes/class-14b)
+
+### Code 301 - Intermediate Software Development
+
+| name | link |
+| :---:| :---:|
+| Read-01 | [SMACSS and Responsive Web Design]() |
+| Read-02 | [jQuery, Events, and The DOM]() 
+| Read-03 | [Flexbox and Templating]() 
+| Read-04| [Responsive Web Design and Regular Expressions]()
+| Read-05| [Heroku Deployment]()
+| Read-06| [Node, Express, and APIs]()
+| Read-07| [ APIs continued]()
+| Read-08| [SQL]()
+| Read-09| [Refactoring]()
+| Read-10| [The Call Stack and Debugging]()
+| Read-11| [ EJS]()
+| Read-12| [Components]()
+| Read-13| [Update/Delete]()
+| Read-14a| [DB Normalization]()
+| Read-14b| [Project Ideas & APIs]()
+
+
+### Code 401 - Advanced Software Development
 
