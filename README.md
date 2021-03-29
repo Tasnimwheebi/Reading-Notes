@@ -36,9 +36,9 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 
 | name | link |
 | :---:| :---:|
-| Read-01 | [SMACSS and Responsive Web Design](https://github.com/Tasnimwheebi/Reading-Notes/code-301/read-01) |
-| Read-02 | [jQuery, Events, and The DOM]() 
-| Read-03 | [Flexbox and Templating](https://github.com/Tasnimwheebi/Reading-Notes/code-301/read-02) 
+| Read-01 | [SMACSS and Responsive Web Design](https://tasnimwheebi.github.io/Reading-Notes/code-301/read-01) |
+| Read-02 | [jQuery, Events, and The DOM](https://tasnimwheebi.github.io/Reading-Notes/code-301/read-02) 
+| Read-03 | [Flexbox and Templating]() 
 | Read-04| [Responsive Web Design and Regular Expressions]()
 | Read-05| [Heroku Deployment]()
 | Read-06| [Node, Express, and APIs]()
