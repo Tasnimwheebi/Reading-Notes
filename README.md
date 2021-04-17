@@ -51,6 +51,8 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | Read-13| [Update/Delete](https://tasnimwheebi.github.io/Reading-Notes/code-301/read-13)
 | Read-14a| [DB Normalization](https://tasnimwheebi.github.io/Reading-Notes/code-301/read-14a)
 | Read-14b| [Project Ideas & APIs](https://tasnimwheebi.github.io/Reading-Notes/code-301/read-14b)
+| Read-15| [Diversity & Inclusion in the Tech Industry](https://tasnimwheebi.github.io/Reading-Notes/code-301/read-15)
+
 
 
 ### Code 401 - Advanced Software Development
