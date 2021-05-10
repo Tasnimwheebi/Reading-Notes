@@ -9,7 +9,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | :---:| :---:|
 | Growth mindset | [Growth mindset](https://tasnimwheebi.github.io/Reading-Notes/102/growthminset) |
 | Markdown | [Markdown](https://tasnimwheebi.github.io/Reading-Notes/102/markdown)
-| programming with Javascript | [programming with Javascript ](https://tasnimwheebi.github.io/Reading-Notes/102/read-04)
+| programming with Javascript | [programming with Javascript ](https://tasnimwheebi.github.io/Reading-Notes/102/javascript)
 | Operators & Loops | [Operators & Loops](https://tasnimwheebi.github.io/Reading-Notes/102/loops)
 
 ### Coures Code-201 - Foundations of Software Development
