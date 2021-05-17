@@ -60,8 +60,8 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | name | link |
 | :---:| :---:|
 | Prep: Readings  | [prep-Reading ](https://tasnimwheebi.github.io/Reading-Notes/code-401/pre-read) |
-| Read-01 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-01) |
-| Read-02 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-02) 
+| Read-01 | [](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-01) |
+| Read-02 | [Express ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-02) 
 | Read-03 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-03) 
 | Read-04| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-04)
 | Read-05| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-05)
