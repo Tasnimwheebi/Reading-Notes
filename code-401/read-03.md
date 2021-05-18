@@ -37,5 +37,6 @@ Route middleware in Express is a way to do something before a request is process
 ## True or false: The route handler is middleware? false.
 ## In what ways can a middleware function end the process and send data to the browser?
  By calling res.end, res.send, res.render or any method that implicitely calls res.end
+ 
  ## At what point in the request lifecycle can you “inject” middleware?
  it is executed in between in the middle of receiving a request and sending back a response.
