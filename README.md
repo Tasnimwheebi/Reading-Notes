@@ -66,7 +66,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | Read-04| [Data Modeling ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-04)
 | Read-05| [Linked Lists](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-05)
 | Read-06| [Authentication ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-06)
-| Read-07| [  ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-07)
+| Read-07| [ Bearer Authorization ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-07)
 | Read-08| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-08)
 | Read-09| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-09)
 | Read-10| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-10)
