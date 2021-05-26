@@ -68,7 +68,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | Read-06| [Authentication ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-06)
 | Read-07| [ Bearer Authorization ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-07)
 | Read-08| [Access Control (ACL) ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-08)
-| Read-09| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-09)
+| Read-09| [Stacks and Queues ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-09)
 | Read-10| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-10)
 | Read-11| [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-11)
 | Read-12| [](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-12)
