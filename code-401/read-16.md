@@ -1,6 +1,6 @@
 # AWS: Cloud Servers
 
-## Cloud Computind 
+## Cloud Computing
 cloud enables users to get their applications to market quickly. Data security: Hardware failures do not result in data loss because of networked backups. Savings on equipment: Cloud computing uses remote resources, saving organizations the cost of servers and other equipment.
 
 ### business advantages of cloud computing. 
