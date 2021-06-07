@@ -76,7 +76,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | Read-14| [Event Driven Architecture](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-14)
 | Read-15| [Trees ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-15)
 | Read-16 | [AWS: Cloud Servers](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-16)
-| Read-17 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-17)
+| Read-17 | [AWS: S3 and Lambda](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-17)
 | Read-18 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-18)
 | Read-19 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-19)
 | Read-20 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-20)
