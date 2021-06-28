@@ -28,3 +28,8 @@ Context provides a way to pass data through the component tree without having to
 
 ### Before Use Context :
 Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult.
+* If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.
+
+* Context.Consumer: A React component that subscribes to context changes. Using this component lets you subscribe to a context within a function component.
+
+* Context.displayName: Context object accepts a displayName string property. React DevTools uses this string to determine what to display for the context.
