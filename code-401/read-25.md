@@ -37,10 +37,15 @@ import React, {useState, useEffect} from 'react';
 }
 useEffect should not be called from inside a loop - react hooks should only be called at the top level.
 
-##Document the following Vocabulary Terms
+## Document the following Vocabulary Terms
 * state hook - the basic hook of react, equivalent to this.state = {} in a class-based component.
 
 * effect hook - performs side effects in a function component. Can trigger on any page re-render, or specific component renders.
 
 * reducer hook - instead of a state hook which modifies a state in place, a reducer takes a state and a dispatch function, and returns a new state src.
+## Using a Custom Hook
+* useToggle:
+it takes a parameter with value true or false and toggles that value to opposite. It’s useful when we want to take some action into it’s opposite action.
 
+* useAuth:
+A very common scenario is you have a bunch of components that need to render different depending on whether the current user is logged in and sometimes call authentication methods like signin, signout, sendPasswordResetEmail, etc.
