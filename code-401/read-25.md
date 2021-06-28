@@ -1,15 +1,16 @@
-#Custom Hooks
-##Review, Research, and Discussion
-###What does a component’s lifecycle refer to?
+# Custom Hooks
+
+## Review, Research, and Discussion
+### What does a component’s lifecycle refer to?
 The process of each component Mounting, Updating, and Unmounting to the DOM. There are several functions that can be called at each stage, but render() is the only required function for Mounting and Updating.
 
-###Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect
+### Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect
 This can be used to prevent rerenders of a function if it is passed to a child as a prop.
 
-###Why are functional components preferred over class components?
+### Why are functional components preferred over class components?
 They are simpler for deveopers to work on, as they
 
-###What is wrong with the following code?
+### What is wrong with the following code?
 import React, {useState, useEffect} from 'react';
 
     function MyComponent(props) {
