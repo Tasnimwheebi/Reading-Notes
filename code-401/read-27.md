@@ -1,4 +1,4 @@
-# <Login /> and <Auth />
+# `<Login /> and <Auth />`
 ## Review, Research, and Discussion
 ### Why is the Context API useful?
 It allows you to pass props down multiple levels of a component tree without having to manually pass the prop each time, essentailly providing a shortcut for props to granchildren etc. src
