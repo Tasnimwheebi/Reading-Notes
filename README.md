@@ -89,7 +89,7 @@ I am Tasnim Al Wheebi. I had graduated from Al Yarmouk University since 2012 spe
 | Read-27 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-27)
 | Read-28 | [Graph ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-28)
 | Read-29 | [Redux - Asynchronous Actions](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-29)
-| Read-30 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-30)
+| Read-30 | [Redux - Combined Reducers](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-30)
 | Read-31 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-31)
 | Read-32 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-32)
 | Read-33 | [ ](https://tasnimwheebi.github.io/Reading-Notes/code-401/read-33)
